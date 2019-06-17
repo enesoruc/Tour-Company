@@ -1,0 +1,14 @@
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\DevOpsTour.DAL.dll.config
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\DevOpsTour.DAL.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\DevOpsTour.DAL.pdb
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\DevOpsTour.Model.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\EntityFramework.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\DevOpsTour.Model.pdb
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\EntityFramework.xml
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\obj\Debug\DevOpsTour.DAL.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\obj\Debug\DevOpsTour.DAL.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\obj\Debug\DevOpsTour.DAL.csproj.CopyComplete
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\obj\Debug\DevOpsTour.DAL.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.DAL\obj\Debug\DevOpsTour.DAL.pdb

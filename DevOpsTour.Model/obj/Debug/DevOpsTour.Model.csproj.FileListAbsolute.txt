@@ -1,0 +1,6 @@
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.Model\bin\Debug\DevOpsTour.Model.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.Model\bin\Debug\DevOpsTour.Model.pdb
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.Model\obj\Debug\DevOpsTour.Model.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.Model\obj\Debug\DevOpsTour.Model.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.Model\obj\Debug\DevOpsTour.Model.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.Model\obj\Debug\DevOpsTour.Model.pdb

@@ -1,0 +1,9 @@
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\bin\Debug\DevOpsTour.UI.WinForm.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\bin\Debug\DevOpsTour.UI.WinForm.pdb
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.BiletSatis.resources
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.TuristKayit.resources
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.dll
+C:\Users\eneso\source\repos\DevOpsTour\DevOpsTour.UI.WinForm\obj\Debug\DevOpsTour.UI.WinForm.pdb

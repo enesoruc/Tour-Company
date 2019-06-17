@@ -1,0 +1,11 @@
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletSatisUI.resources
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TuristKayitUI.resources
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\eneso\source\repos\DevOpsTour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
